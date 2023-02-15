@@ -9,6 +9,10 @@ Unter Windows mit Github Desktop kein Problem:
 https://desktop.github.com/
 
 clonen und committen geht auch ganz
-einfach, wenn man eigeladen wurde...
+einfach, wenn man eingeladen wurde...
+
+Ich muss noch mal testen, was
+bei Brach und Fork mit dem lokalen Verzeichnis passiert...
+
 
 
